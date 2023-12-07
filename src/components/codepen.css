@@ -1,0 +1,31 @@
+/* Techtoolcarousel.js */
+/* Position the carousel control arrows */
+.carousel-control-prev {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    transform: translateY(-50%);
+  }
+  
+  .carousel-control-next {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+  }
+  .tol{
+    background-color: #343a40 !important;
+  }
+  .tt{
+    background-color: pink !important;
+  }
+  /* try */
+  /* Custom class for background image */
+.custom-accordion-bg {
+  background-image: url('../photos/tech4.jpg');
+  background-size: cover; /* Adjust as needed */
+  background-repeat: no-repeat;
+  /* Add other background properties if necessary */
+}
+
+  
